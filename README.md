@@ -104,8 +104,9 @@ The application will open in your browser.
 ## 📸 Screenshots
 
 ### Home Page
+<img width="1920" height="1080" alt="{27914992-6A46-486E-95F6-D30D4AB449C0}" src="https://github.com/user-attachments/assets/5fea35ae-a140-4871-aa18-9d0081eeb034" />
 
-> Add a screenshot here.
+
 
 ### Chat Interface
 
