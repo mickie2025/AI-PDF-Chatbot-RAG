@@ -149,7 +149,7 @@ B.Tech – Artificial Intelligence and Data Science
 
 GitHub: https://github.com/mickie2025
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: www.linkedin.com/in/vikram004
 
 ---
 
