@@ -112,7 +112,8 @@ The application will open in your browser.
 
 ### Chat Interface
 
-![Uploading context.png.png…]()
+<img width="1920" height="1080" alt="context png" src="https://github.com/user-attachments/assets/d91da2b4-de7a-42db-9449-a9e2d561e4f7" />
+
 
 
 ### Retrieved Context
